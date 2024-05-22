@@ -1,1 +1,1 @@
-<p> Sencillamente 🧱🧻✂</p>
+<h1> Sencillamente 🧱🧻✂</h1>

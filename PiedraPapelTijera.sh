@@ -137,8 +137,6 @@ imposible(){
         opcion_juego
         numero_aleatorio_imposible
         quien_gana
-        echo "Jugador HA ELEGIDO " $(traducirOpcion $opcion)
-        echo "PC HA ELEGIDO " $(traducirOpcion $numero)
         echo "Has ganado $gana_usuario jugadas"
     done
     ganado_final
